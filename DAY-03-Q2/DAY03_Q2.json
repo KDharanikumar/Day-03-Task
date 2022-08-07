@@ -1,0 +1,51 @@
+[
+  {
+    "profile": {
+      "name": "K.DHARANIKUMAR",
+      "fn": "M.Kalaiselvan",
+      "add": "814.Ottraivadai St, Vagai Vill, Dusi Po, Vembakkam Taluk, Thiruvannamalai Dist, 631 702",
+      "phone": "9952638437",
+      "mail": "kdharanstarflit@gmail.com"
+    },
+    "qual": {
+      "year": {
+        "y1": "2020 -",
+        "y2": "2016 -",
+        "y3": "2011 -",
+        "y4": "2009 -",
+        "y5": "2007 -"
+      }
+    },
+    "deg": {
+      "d1": "MBA Logistics & Supply Chain Management -",
+      "d2": "B.E Mechanical Engineering -",
+      "d3": "Diploma in Automobile Engineering -",
+      "d4": "12th -",
+      "d5": "S.S.L.C -"
+    },
+    "inst": {
+      "in1": "Madras University, Chennai",
+      "in2": "AMACE, Kancheepuram.",
+      "in3": "Dusi Polytechnic College, Dusi.",
+      "in4": "Govt Hr Sec School, Ayyangarkulam.",
+      "in5": "Govt Hr. Sec School, Ayyangarkulam."
+    },
+    "exp": {
+      "c1": "TVS Sundaram Clayton Limited.",
+      "f1": "Engineer",
+      "d1": "Quality Control & Quality Assurance",
+
+      "c2": "Rockman Industries Chennai Pvt.Ltd.",
+      "f2": "Engineer",
+      "d2": "Quality Assurance",
+
+      "c3": "Sargam Die Casting India Pvt.Ltd.",
+      "f3": "Trainee",
+      "d3": "Quality Control",
+
+      "c4": "Hyundai Mobis India Pvt.Ltd.",
+      "f4": "Associate Trainee Injection Molding",
+      "d4": "Quality Control"
+    }
+  }
+]
